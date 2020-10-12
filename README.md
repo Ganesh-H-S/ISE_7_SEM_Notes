@@ -1,8 +1,8 @@
 # ISE_7_SEM_Notes
-#17CS71 : Web Technology and its Application
-#17IS72 : Software Architecture and Design Pattern
-#17CS73 : Machine Learning
-#17CS742 : Cloud Computing and its Application
-#17CS754 : Storage Area Networks
-#17CSL76 : Machine Learning Laboratory
-#17CSL77 : Web Technology Laboratory with Mini Project
+# 17CS71 : Web Technology and its Application
+# 17IS72 : Software Architecture and Design Pattern
+# 17CS73 : Machine Learning
+# 17CS742 : Cloud Computing and its Application
+# 17CS754 : Storage Area Networks
+# 17CSL76 : Machine Learning Laboratory
+# 17CSL77 : Web Technology Laboratory with Mini Project
